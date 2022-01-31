@@ -2,5 +2,5 @@
     "logpath": "C:/Users/Compic/go/src/github.com/validator",
     "host": "localhost",
     "port": "80",
-    "livetimetohour": 2
+    "livetimetohour": 3
 }
